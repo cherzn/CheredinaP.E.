@@ -8,5 +8,6 @@ int main() {
     int b;
     std::cin>>b;
     int ra=a-b;
+    int su=a+b;
     return 0;
 }
