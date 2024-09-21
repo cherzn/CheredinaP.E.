@@ -7,6 +7,7 @@ int main() {
     std::cout << "Введите второе число" << std::endl;
     int b;
     std::cin>>b;
+    int ra=a-b;
     int su=a+b;
     return 0;
 }
