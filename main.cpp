@@ -13,4 +13,5 @@ int main() {
     int c1;
     int c2;
     int c4;
+    int c5;
 }
