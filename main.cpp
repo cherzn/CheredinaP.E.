@@ -11,4 +11,5 @@ int main() {
     int su=a+b;
     return 0;
     int c1;
+    int c2;
 }
