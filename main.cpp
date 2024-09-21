@@ -5,5 +5,7 @@ int main() {
     int a;
     std::cin>>a;
     std::cout << "Введите второе число" << std::endl;
+    int b;
+    std::cin>>b;
     return 0;
 }
