@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Начало работы" << std::endl;
+    std::cout << "Введите первое число" << std::endl;
     return 0;
 }
